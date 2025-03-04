@@ -1,1 +1,1 @@
-# Lista-de-Exerc-cios
+# Atividades Introdução à Ciência de Dados
